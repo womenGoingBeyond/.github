@@ -1,12 +1,5 @@
-## Hi there 👋
+# TL;DR
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Women Going Beyond (WGB)](https://www.womengoingbeyond.org/) is an NGO created to empower women in rural areas of SouthEast Asia,
+by teaching them essential employment and self-development skills.
+We find job opportunities for young women and we prevent them from entering the ring of human trafficking and prostitution.
