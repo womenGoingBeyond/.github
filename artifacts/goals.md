@@ -33,7 +33,7 @@ First, the goals are extract from stakeholder's interview answers and at the end
 6. At the end of BA-thesis the user can send feedback in form of stars after a completed course/module.
 7. At the end of BA-thesis The registered user can login in system and be able to change/reset the password.
 
-## The Thesis's Goals
+## The Goals of Thesis
 
 Based on prioritized goals above the first four goals are realistic for the time frame of three month:
 
@@ -41,3 +41,11 @@ Based on prioritized goals above the first four goals are realistic for the time
 2. At the end of BA-thesis the user can see all course materials and can complete the provided materials: see videos and texts, hear audios, take quizzes.
 3. At the end of BA-thesis the user can complete the course offline.
 4. At the end of BA-thesis the course materials can be downloaded by user's mobile device.
+
+#### Abstract Goals
+
+a. Content fetching via API<br>
+b. A demo app for PoC<br>
+c. An efficient way of downloading the content<br>
+d. Offline capability<br>
+e. Sync between device/s and "cloud"<br>
