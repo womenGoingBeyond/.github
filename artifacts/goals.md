@@ -39,8 +39,8 @@ Based on prioritized goals above the first four goals are realistic for the time
 
 1. At the end of BA-thesis a Proof of concept in form of a demo app should sync the completed course/lessons to the cloud.
 2. At the end of BA-thesis the user can see all course materials and can complete the provided materials: see videos and texts, hear audios, take quizzes.
-3. At the end of BA-thesis the user can complete the course offline.
-4. At the end of BA-thesis the course materials can be downloaded by user's mobile device.
+3. At the end of BA-thesis the course materials can be downloaded by user's mobile device.
+4. At the end of BA-thesis the user can complete the course offline.
 
 #### Abstract Goals
 
