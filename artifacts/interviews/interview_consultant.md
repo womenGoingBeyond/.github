@@ -35,13 +35,17 @@ The main use case is to provide the created courses to student using the android
 
 - Backend with the necessary standard components (LearnDash, Wordpress etc.) needs to be configured and up and running
 - Android app with
-- Online “standard features from wordpress”
+
+Online “standard features from wordpress”
+
 - Register of new user
 - Log in of new user
 - Forgot pw / reset pw
 - Load and display available courses
 - Sing in for one or more courses
-- Non “Standard Features”
+
+Non “Standard Features”
+
 - Sync courses and course data for offline use
 - Offline course use
 - Offline playback of course video/ audio
